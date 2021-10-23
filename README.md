@@ -1,2 +1,2 @@
 # sites
-some websites I developed during university
+some websites that i developed during university
